@@ -1,11 +1,12 @@
 
 <h1 align="center"> Nikollas Oliveira </h1>
-<p align="center"> Estudante técnico de Desenvolvimento de Sistemas </p>
+<p align="center"> Estudante técnico de Analise e Desenvolvimento de Sistemas </p>
 
 ---
 
 ## ° Estudos
-- *Orientação a Objetos com Java*
+- *Spring Boot*
+- *HTML com JavaScript*
 - *Padrões de projeto*
 
 ---
