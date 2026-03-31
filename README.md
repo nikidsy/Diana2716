@@ -45,6 +45,11 @@
   <span style="color: white; font-weight: bold;">Vite</span>
 </div>
 
+<div style="display: flex; align-items: center; gap: 5px; padding: 5px 10px; background-color: #2c2c2c; border-radius: 5px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="24"/>
+  <span style="color: white; font-weight: bold;">Node.js</span>
+</div>
+
 </div>
 
 
